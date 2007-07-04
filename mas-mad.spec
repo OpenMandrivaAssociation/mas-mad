@@ -15,6 +15,7 @@ URL: http://www.mediaapplicationserver.net/indexframes.html
 BuildRequires: libmas-devel > 0.6.2-1mdk 
 BuildRequires: libmad-devel
 BuildRequires: imake
+ExcludeArch: x86_64
 
 %description
 This is a mp3 decoder plugin for MAS based on the MAD library.
