@@ -1,6 +1,6 @@
 %define name mas-mad
 %define version 0.6.3
-%define release %mkrel 3
+%define release %mkrel 4
 %define oname mas-codec_mp1a_mad
 
 Summary: MAD mp3 decoder for MAS
