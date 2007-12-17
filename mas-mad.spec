@@ -10,7 +10,6 @@ Release: %{release}
 Source0: %{oname}-%{version}.tar.gz
 License: GPL
 Group: Sound
-BuildRoot: %{_tmppath}/%{name}-buildroot
 URL: http://www.mediaapplicationserver.net/indexframes.html
 BuildRequires: libmas-devel > 0.6.2-1mdk 
 BuildRequires: libmad-devel
